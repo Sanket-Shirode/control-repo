@@ -17,5 +17,5 @@ mod 'puppetlabs-mysql', '6.2.0'
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
 mod 'phase1_demo'
-  :git    => 'https://github.com/Sanket-Shirode/phase1_demo.git'
+  :git    => 'https://github.com/Sanket-Shirode/phase1_demo.git',
   :branch => 'development'
