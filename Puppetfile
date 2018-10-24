@@ -5,7 +5,8 @@ forge 'https://forge.puppet.com'
 #mod 'puppetlabs/inifile',     '2.2.1'
 #mod 'puppetlabs/stdlib',      '4.25.1'
 #mod 'puppetlabs/concat',      '4.2.1'
-
+mod 'chocolatey-chocolatey', '1.2.6'
+mod 'puppetlabs-mysql', '6.2.0'
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 #mod 'apache',
@@ -15,3 +16,6 @@ forge 'https://forge.puppet.com'
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
+mod 'phase1_demo'
+  :git    => 'https://github.com/Sanket-Shirode/phase1_demo.git'
+  :branch => 'development'
