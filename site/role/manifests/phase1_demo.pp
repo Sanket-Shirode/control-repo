@@ -5,5 +5,5 @@
 # @example
 #   include role::phase1_demo
 class role::phase1_demo {
-include profile::phase1_demo
+include ::profile::phase1_demo
 }
