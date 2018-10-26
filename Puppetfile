@@ -1,4 +1,4 @@
-#This is the control-repo Puppetfile on development machine
+
 forge 'https://forge.puppet.com'
 
 # Modules from the Puppet Forge
