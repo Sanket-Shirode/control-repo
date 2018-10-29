@@ -10,5 +10,5 @@ class profile::phase1_demo(
 ) {
   include ::phase1_demo::install_tree
   include ::phase1_demo::add_user
-  include ::phase1_demo::cron
+#  include ::phase1_demo::cron
 }
