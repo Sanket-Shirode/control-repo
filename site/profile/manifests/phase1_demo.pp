@@ -8,7 +8,7 @@ class profile::phase1_demo(
   String $package_name,
   String $password,
 ) {
-  include ::phase1_demo::install_tree
+#  include ::phase1_demo::install_tree
   include ::phase1_demo::add_user
 #  include ::phase1_demo::cron
 }
