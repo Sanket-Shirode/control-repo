@@ -15,7 +15,7 @@ mod 'puppetlabs-translate',   '1.2.0'
 mod 'puppet-prometheus',      '6.4.0'
 mod 'puppet-archive',         '3.2.1'
 mod 'camptocamp-systemd',     '2.1.0'
-
+mod 'puppetlabs-ruby',        '1.0.0'
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 #mod 'apache',
