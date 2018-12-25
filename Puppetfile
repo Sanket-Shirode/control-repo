@@ -16,7 +16,21 @@ mod 'puppet-prometheus',      '6.4.0'
 mod 'puppet-archive',         '3.2.1'
 mod 'camptocamp-systemd',     '2.1.0'
 mod 'puppetlabs-ruby',        '1.0.0'
-mod 'puppet-grafana'        , '5.0.0'
+mod 'puppet-grafana',         '5.0.0'
+mod 'puppetlabs-ntp',         '7.3.0'
+mod 'puppetlabs-accounts',    '3.1.0'
+mod 'ULHPC-bash',             '0.7.6'
+mod 'puppetlabs-firewall',    '1.14.0'
+mod 'opentable-homes',        '1.0.2'
+mod 'glarizza-profiles',      '0.0.5'
+mod 'mtulio-roles',           '1.0.0'
+mod 'puppetlabs-reboot',      '2.1.2'
+mod 'ghoneycutt-ssh',         '3.58.0'
+mod 'abstractit-sudo',        '1.2.2'
+mod 'puppet-yum',             '3.1.1'
+mod 'saz-timezone',           '5.0.2'
+mod 'millerjl1701-tigervnc',  '1.0.1'
+
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 #mod 'apache',
