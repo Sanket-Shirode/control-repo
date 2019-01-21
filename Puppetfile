@@ -30,7 +30,7 @@ mod 'abstractit-sudo',        '1.2.2'
 mod 'puppet-yum',             '3.1.1'
 mod 'saz-timezone',           '5.0.2'
 mod 'millerjl1701-tigervnc',  '1.0.1'
-
+mod 'puppetlabs-accounts',    '3.1.0'
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 #mod 'apache',
